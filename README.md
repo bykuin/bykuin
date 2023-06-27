@@ -8,7 +8,7 @@ I am a passionate and experienced Full Stack Developer with a strong focus on cr
 
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js, Php
+- **Backend:** Node.js, Php, Python
 - **Database:** MongoDB, MySQL, PostgreSQL
 - **DevOps:** Git, Docker, AWS
 - **Testing:** Jest, Mocha, Chai
