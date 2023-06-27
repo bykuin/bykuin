@@ -1,44 +1,25 @@
 ![Header](./github-header-image.png)
 
+
+## About Me
+I am a passionate and experienced Full Stack Developer with a strong focus on creating efficient, scalable, and maintainable web applications. I enjoy working on challenging projects and turning ideas into reality through code. I strive to continuously learn and improve my skills to stay up-to-date with the latest technologies and industry trends.
+
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Php
+- **Database:** MongoDB, MySQL, PostgreSQL
+- **DevOps:** Git, Docker, AWS
+- **Testing:** Jest, Mocha, Chai
+- **Others:** RESTful APIs, GraphQL, Responsive Design, UI/UX
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bykuin&show_icons=true&theme=prussian)
 
-# Merhaba, Benim Adım [Adınız]
+## Contact Me
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/omer-karacay)
+- Email: omer@omerkaracay.md
+- Website: [Your Website](https://omerkaracay.md)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/linkedin-kullanici-adi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green)](https://www.portfolio-website.com/)
+Feel free to reach out to me for any collaboration, project ideas, or inquiries. I'm open to exciting opportunities and always ready to discuss new projects!
 
-## Hakkımda
-Merhaba! Ben [Adınız], bir Full Stack Geliştiriciyim. Yazılım dünyasına olan tutkumu, kullanıcı odaklı ve yenilikçi çözümler üretmek için kullanıyorum. Çeşitli projelerde çalışmış ve geniş bir teknoloji yelpazesinde deneyim kazanmış biriyim.
-
-## Teknolojik Yeteneklerim
-- **Programlama Dilleri:** JavaScript, Python, Java
-- **Frontend:** HTML, CSS, React, Vue.js
-- **Backend:** Node.js, Express, Django
-- **Veritabanları:** MongoDB, MySQL, PostgreSQL
-- **Sürüm Kontrolü:** Git, GitHub
-- **Diğer Araçlar ve Teknolojiler:** Docker, AWS, RESTful API, GraphQL
-
-## Projeler
-
-### [Proje Adı 1](https://github.com/proje-linki)
-Kısa bir açıklama eklenebilir.
-
-### [Proje Adı 2](https://github.com/proje-linki)
-Kısa bir açıklama eklenebilir.
-
-### [Proje Adı 3](https://github.com/proje-linki)
-Kısa bir açıklama eklenebilir.
-
-## Blog Yazıları
-
-- [Yazı Başlığı 1](https://medium.com/yazi-linki)
-- [Yazı Başlığı 2](https://medium.com/yazi-linki)
-
-## İletişim
-Eğer projelerim veya teknik yeteneklerim hakkında daha fazla bilgi almak isterseniz, benimle iletişime geçmekten çekinmeyin:
-
-- LinkedIn: [LinkedIn Profiliniz](https://www.linkedin.com/in/linkedin-kullanici-adi/)
-- Kişisel Portfolyo: [Portfolyo Websitesi](https://www.portfolio-website.com/)
-
-Teşekkür ederim!
 
