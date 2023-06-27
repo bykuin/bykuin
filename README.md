@@ -1,6 +1,8 @@
 ![Header](./github-header-image.png)
 
 
+# Hi there, I'm Omer 👋
+
 ## About Me
 I am a passionate and experienced Full Stack Developer with a strong focus on creating efficient, scalable, and maintainable web applications. I enjoy working on challenging projects and turning ideas into reality through code. I strive to continuously learn and improve my skills to stay up-to-date with the latest technologies and industry trends.
 
