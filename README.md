@@ -16,9 +16,9 @@ I am a passionate and experienced Full Stack Developer with a strong focus on cr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bykuin&show_icons=true&theme=prussian)
 
 ## Contact Me
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/omer-karacay)
+- LinkedIn: [Visit](https://www.linkedin.com/in/omer-karacay)
 - Email: omer@omerkaracay.md
-- Website: [Your Website](https://omerkaracay.md)
+- Website: [Visit](https://omerkaracay.md)
 
 Feel free to reach out to me for any collaboration, project ideas, or inquiries. I'm open to exciting opportunities and always ready to discuss new projects!
 
